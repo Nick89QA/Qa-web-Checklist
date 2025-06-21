@@ -1,2 +1,2 @@
-# Qa-web-Checklist
-General qa web checklist
+# Qa-web-Checklist 
+ Master Checklist for testing web projects
