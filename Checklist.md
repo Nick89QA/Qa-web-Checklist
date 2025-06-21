@@ -234,7 +234,7 @@ This document provides a comprehensive quality assurance checklist for web appli
   - [ ] Main user journeys can be completed without errors
   - [ ] Steps in each flow follow logical sequence
   - [ ] Number of steps is appropriate and not excessive
-  - [ ] Progress indication provided for multi-step flows
+  - [ ] Progress indication provided for multi-steps flows
   - [ ] No dead-ends in user flows
 
 - [ ] **Feedback & Guidance**
