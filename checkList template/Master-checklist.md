@@ -81,7 +81,7 @@ This document provides a comprehensive quality assurance checklist for web appli
   - [ ] Submission with invalid data blocked with appropriate messages
   - [ ] Duplicate submission prevention works (double-click protection)
   - [ ] Form maintains state after failed submission
-  - [ ] Submit button disabled during processing
+  - [ ] Submit bubtton disabled during processing
   - [ ] Loading indicator displays during submission
   - [ ] Success messages display after successful submission
   - [ ] Redirects after submission function correctly
